@@ -1,0 +1,7 @@
+{
+  "name": "Didu's Birthday Surprise",
+  "description": "A magical, interactive birthday experience for Didu featuring a gift box, cake blowing, dolphin surprises, and a personalized AI-powered message.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
